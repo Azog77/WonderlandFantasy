@@ -399,7 +399,7 @@
 	},
 	"UI.stat.ATKSPD.short":{
 		"en": "ATK SPD",
-		"fr": "VIT ATK",
+		"fr": "VIT ATQ",
 		"es": "ATQ VEL",
 		"ch": "攻击速度",
 		"kr": "공격 속도",
@@ -903,7 +903,7 @@
 	},
 	"UI.stat.HOLYATK.short":{
 		"en": "Holy ATK",
-		"fr": "ATK Sacrée",
+		"fr": "ATQ Sacrée",
 		"es": "",
 		"ch": "神圣攻击",
 		"kr": "",
@@ -1065,7 +1065,7 @@
 	},
 	"UI.windows.quest-list.done":{
 		"en": "DONE",
-		"fr": "TERMIER",
+		"fr": "TERMINER",
 		"es": "",
 		"ch": "",
 		"kr": "",
